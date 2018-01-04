@@ -1,5 +1,6 @@
 package artista;
-
+//PRUEBAS PARA ARTISTA
+//
 public class NodosA {
       public static  Form Principal = new Form();
       public static  ShowAlbumes Secundario= new ShowAlbumes();
